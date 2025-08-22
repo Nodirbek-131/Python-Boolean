@@ -1,1 +1,8 @@
-print("salom")
+username = input("username:")
+
+result = username != ""
+
+
+print(result)
+
+
